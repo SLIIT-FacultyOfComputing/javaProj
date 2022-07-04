@@ -1,0 +1,132 @@
+/*css for div tags*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.miu1{
+    width: 100%;
+    height: 100px;
+    background-image: url('images/ww_hero_contact.webp');
+}
+.miu2{
+    width: 1519px;
+    height: 100px;
+    margin: auto;
+}
+
+.miu4{
+    width: 100%;
+    height: 250px;
+}
+.miu5{
+    width: 1519px;
+    height: 250px;
+    background-image: url('images/360_F_16.jpg');
+    background-repeat: no-repeat;
+    margin: auto;
+    background-size: 100%;
+    
+}
+/*Header*/
+.logo{
+    float: left;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.navBar{
+    float: left;
+    margin-left: 32px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Poppins' , sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    
+}
+.navBar:hover{
+    background-color: rgba(10, 62, 195, 0.729);
+
+}
+/*Footer*/
+.logo1{
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.footer{
+    float: left;
+}
+.footerA{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-family: 'Poppins' , sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration:underline;
+    margin-right: 180px;
+}
+a{
+    text-decoration: none;
+}
+.footerB{
+    font-size: 15px;
+    font-family: 'Poppins' , sans-serif;
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    border-radius: 5px; 
+    width: 150px;
+}
+.footerB:hover{
+    color: rgb(26, 26, 93);
+    transition: 0.3s;
+    padding-left: 10px;
+}
+.footerC{
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: 'Poppins' , sans-serif;
+    width: 195px;
+}
+.footerC:hover{
+    color: rgb(26, 26, 93);
+    transition: 0.3s;
+    padding-left: 10px;
+}
+.icon{
+    float: left;
+    margin-top: 30px;
+    margin-right: 25px;
+}
+.icon:hover{
+    padding-top: 5px;
+}
+p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Poppins' , sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.bottom{
+    background: rgb(4, 142, 149);
+    opacity: 0.8;
+    text-align: center;
+}
+
+
+
+
+
+
+
+	
